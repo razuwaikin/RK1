@@ -8,7 +8,7 @@ touch /home/user/workspace/test/test.txt
 7) du -ah |sort -rh
 
 
-1)git init 
+1) git init 
 git clone
 2) tolko posledniy (last change) 
 3) master -> patch1
