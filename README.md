@@ -1,4 +1,5 @@
 # RK1
+#part 1
 1) cd .. or cd cd home/user
 2) grep -v "blabla"
 3) mkdir /home/user/workspace/test
@@ -9,20 +10,15 @@ touch /home/user/workspace/test/test.txt
 7) du -ah |sort -rh
 
 
-
+#part 2
 1)git init 
 git clone
-
 2) tolko posledniy (last change)
- 
 3) master -> patch1
-
 4) master -> patch1
-
 5) zavisit ot vetki (branch) esli na odnih to tak: 
 push vipolnitsia y togo kto bistree, a vtoromu vidast oshibku chto on vtoroy
 a esli na raznih to oshibki ne budet 
-
 6) CmakeList.txt
 
 
